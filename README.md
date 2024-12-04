@@ -6,7 +6,8 @@
 -----
 
 ### 터미널 Git 사용
-- Github에 ssh key 등록을 해야 github 사용 가능 (ssh로 파일을 가져올 때)
+- Github에 ssh key 등록을 해야 github 사용 가능 (ssh로 파일을 가져올 때) 
+[.터미널 사용 ssh key 만들기](https://bit.ly/368zxvR)
 - git init을 통해 git 초기화 => 해당 프로젝트를 git으로 관리한다는 것을 선언
 - .git 파일을 삭제하면 git으로 관리안한다는 의미 rm -rf .git
 - git add, git status, git commit -m"메세지" 와 같은 명령어를 통해 Working Directory, Staging Area, Local Repository, Github Repository를 왔다갔다 하면서 관리 가능
